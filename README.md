@@ -1,1 +1,1 @@
-# Toxic comment detection with Bidirectional LSTM using Kaggle dataset.
+# Building a Gradio app for interactive toxic comment detection using Bidirectional LSTM.
